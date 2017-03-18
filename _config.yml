@@ -68,14 +68,14 @@ footer-links-active:
   google-plus: false
   github: true
   reddit: false
-  linkedin: false
+  linkedin: true
   xing: false
-  stackoverflow: false
+  stackoverflow: true
   snapchat: false
   instagram: false
   youtube: false
   spotify: false
-  telephone: false
+  telephone: true
 
 # Select which share links to show in posts
 share-links-active:
