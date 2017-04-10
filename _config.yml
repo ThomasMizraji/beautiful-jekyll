@@ -32,7 +32,8 @@ navbar-links:
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/img/portrait-square.png"
+# avatar: "/img/portrait-square.png"
+avatar: "https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAjWAAAAJDc1NTM2MGIzLWQyNTItNDUzYS04MjNmLTUxZjNmNzk5ZDhmNA.jpg"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
