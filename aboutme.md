@@ -9,4 +9,4 @@ My name is Thomas Mizraji and I have a MSc in Computer Science at [EPFL](https:/
 - Networking
 - Data Analytics
 
-Here is my [resume].(https://www.dropbox.com/s/j5dd7qeoxnv9zu0/cvThomasFinal.pdf?dl=0)
+Here is my [resume](https://www.dropbox.com/s/j5dd7qeoxnv9zu0/cvThomasFinal.pdf?dl=0).
