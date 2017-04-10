@@ -14,10 +14,10 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Thomas's website
+title: Thomas Mizraji
 
 # Short description of your site
-description: Personal Website Thomas Mizraji
+description: Thomas Mizraji
 
 # --- Navigation bar options --- #
 
@@ -86,7 +86,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "thomasmizraji.com"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "thomasmizraji.github.io"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Misc --- #
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
