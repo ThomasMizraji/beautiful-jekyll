@@ -7,25 +7,23 @@ I already obtained my MSc and BSc in Computer Science at [EPFL](https://epfl.ch)
 
 Here is a list of relevant lectures I followed:
 
-- Cryptography and Security
-- TCP/IP Networking
-- Computer architecture
-- Computer networks
-- Concurrency
-- Operating systems
-- Network security
+- Cybersecurity and Setworking
+  - Cryptography and Security
+  - TCP/IP Networking
+  - Network Security
 
-- Intelligent agents
-- Algorithms
-- Probabilities and statistics
-- Artificial intelligence
-- Introduction to database systems
-- Database systems
-- Distributed information systems
+- Data Analytics
+  - Intelligent Agents
+  - Probabilities and Statistics
+  - Artificial Intelligence
+  - Database Systems
+  - Distributed Information Systems
 
-- System oriented programming
-- Software engineering
+- Programming
+  - System oriented programming
+  - Software engineering
 
-- Social psychology
-- Introduction to intellectual property law
-- Law of technological research
+- Social sciences
+  - Social psychology
+  - Introduction to intellectual property law
+  - Law of technological research
