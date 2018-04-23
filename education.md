@@ -9,7 +9,7 @@ My areas of interest include Cyber Security, Networking and Data Analytics. Thes
 
 Here is a list of relevant classes I took during my studies:
 
-- Cybersecurity and Setworking
+- Cybersecurity and Networking
   - Cryptography and Security
   - TCP/IP Networking
   - Network Security
