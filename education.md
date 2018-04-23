@@ -7,7 +7,7 @@ I obtained a MSc and BSc in Computer Science at [EPFL](https://epfl.ch) and I am
 
 My areas of interest include Cyber Security, Networking and Data Analytics. These are reflected in my [master thesis](https://thomasmizraji.github.io/masterThesis.pdf) that was conducted in the industry at [Open Systems AG](https://www.open.ch/en/career/internships.php) in Zurich (Switzerland) about the extraction of cyber-threat intellience from the internet background noise.
 
-Here is a list of relevant lectures I followed:
+Here is a list of relevant classes I took during my studies:
 
 - Cybersecurity and Setworking
   - Cryptography and Security
@@ -22,10 +22,10 @@ Here is a list of relevant lectures I followed:
   - Distributed Information Systems
 
 - Programming
-  - System oriented programming
-  - Software engineering
+  - System Oriented Programming
+  - Software Engineering
 
 - Social sciences
-  - Social psychology
-  - Introduction to intellectual property law
-  - Law of technological research
+  - Social Psychology
+  - Introduction to Intellectual Property Law
+  - Law of Technological Research
