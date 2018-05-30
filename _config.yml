@@ -55,7 +55,7 @@ author:
   #google-plus: +yourname   # eg. +DeanAttali or 109424658772469020925
   linkedin: thomasmizraji  # eg. daattali
   #xing: yourname      # eg. daattali
-  stackoverflow: 7199564/thomas-mizraji  # eg. "3943160/daattali"
+  #stackoverflow: 7199564/thomas-mizraji  # eg. "3943160/daattali"
   #snapchat: yourname  # eg. daattali
   #instagram: yourname # eg. daattali
   #youtube: yourlink   # eg. user/daattali or channel/daattali
@@ -73,7 +73,7 @@ footer-links-active:
   reddit: false
   linkedin: true
   xing: false
-  stackoverflow: true
+  stackoverflow: false
   snapchat: false
   instagram: false
   youtube: false
